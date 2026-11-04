@@ -1,0 +1,19 @@
+
+# Archivos y carpetas generados por .NET
+bin/
+obj/
+
+# Configuracion de Visual Studio
+.vs/
+
+# Configuracion de Visual Studio Code
+.vscode/
+
+# Archivos temporales
+*.user
+*.suo
+*.cache
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
